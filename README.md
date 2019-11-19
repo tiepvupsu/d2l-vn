@@ -1,4 +1,6 @@
-# Dive into Deep Learning (D2L Book)
+> # Dive into Deep Learning (D2L Book)
+
+# Đắm mình vào Học Sâu (sách D2L)
 
 [![Build Status](http://ci.d2l.ai/job/d2l-en/job/master/badge/icon)](http://ci.d2l.ai/job/d2l-en/job/master/)
 
